@@ -1,0 +1,5 @@
+*.jpeg
+__pycache__
+venv
+.idea
+*.swp
